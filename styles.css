@@ -1,23 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Infinity&display=swap');
 
-@media (max-width: 768px) {
-    .container {
-        display: flex;
-        flex-wrap: wrap;
-      }
-      
-      .slide-col {
-        flex-basis: 100%;
-      }
-      .user-img img {
-        max-width: 100%;
-        height: auto;
-      }
-      .slide-col {
-        flex: 0 0 25%;
-      }
-  }
-
 :root {
     --first-clr: #FCFCFD;
     --background-clr: #2142AB;
