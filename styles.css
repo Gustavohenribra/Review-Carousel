@@ -12,6 +12,11 @@
     padding: 0;
 }
 
+html {
+line-height: 1.15;
+-webkit-text-size-adjust: 100%;
+}
+
 .hero {
     background: var(--background-clr);
     height: 100vh;
